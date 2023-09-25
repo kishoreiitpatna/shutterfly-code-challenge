@@ -1,0 +1,8 @@
+{
+            'type': 'CUSTOMER',
+            'key': 'customer2',
+            'event_time': '2023-01-03',
+            'last_name': 'Smith',
+            'adr_city': 'Los Angeles',
+            'adr_state': 'CA',
+        }

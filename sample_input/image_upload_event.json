@@ -1,0 +1,9 @@
+{
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "image123",
+    "event_time": "2023-09-23T14:30:00Z",
+    "customer_id": "customer456",
+    "camera_make": "Canon",
+    "camera_model": "EOS 5D Mark IV"
+}

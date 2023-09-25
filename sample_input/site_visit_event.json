@@ -1,0 +1,7 @@
+{
+            'type': 'SITE_VISIT',
+            'customer_id': 'customer1',
+            'event_time': '2023-01-02',
+            'page_id': 'page1',
+            'tags': [{'name': 'tag1', 'value': 'value1'}],
+        }

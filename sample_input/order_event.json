@@ -1,0 +1,7 @@
+{
+            'type': 'ORDER',
+            'customer_id': 'customer1',
+            'event_time': '2023-01-05',
+            'order_id': 'order1',
+            'total_amount': 200,
+        }

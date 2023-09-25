@@ -1,0 +1,46 @@
+[
+        {
+            'type': 'CUSTOMER',
+            'key': 'customer1',
+            'event_time': '2023-01-01',
+            'last_name': 'Doe',
+            'adr_city': 'New York',
+            'adr_state': 'NY',
+        },
+        {
+            'type': 'SITE_VISIT',
+            'customer_id': 'customer1',
+            'event_time': '2023-01-02',
+            'page_id': 'page1',
+            'tags': [{'name': 'tag1', 'value': 'value1'}],
+        },
+        {
+            'type': 'ORDER',
+            'customer_id': 'customer1',
+            'event_time': '2023-01-05',
+            'order_id': 'order1',
+            'total_amount': 200,
+        },
+        {
+            'type': 'CUSTOMER',
+            'key': 'customer2',
+            'event_time': '2023-01-03',
+            'last_name': 'Smith',
+            'adr_city': 'Los Angeles',
+            'adr_state': 'CA',
+        },
+        {
+            'type': 'ORDER',
+            'customer_id': 'customer2',
+            'event_time': '2023-01-07',
+            'order_id': 'order2',
+            'total_amount': 100
+        },
+        {
+            'type': 'ORDER',
+            'customer_id': 'customer2',
+            'event_time': '2023-01-12',
+            'order_id': 'order3',
+            'total_amount': 50,
+        },
+    ]
